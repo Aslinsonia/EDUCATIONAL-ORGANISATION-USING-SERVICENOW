@@ -5,17 +5,25 @@
 The Educational Organisation Using ServiceNow project aims to create an efficient Educational Management System (EMS) that streamlines and automates administrative tasks within educational institutions. This platform provides tools for managing student and teacher data, simplifying admission processes, and monitoring student progress — all within the ServiceNow environment.
 
 🧩 Category
+
 ServiceNow System Administrator
 
 🧠 Skills Required
+
 ServiceNow Platform
+
 Workflow and Form Design
+
 Client Scripts
+
 Process Flow Creation
+
 Update Set Management
+
 TensorFlow 
 
 🚀 Project Description
+
 The Educational Management System is a comprehensive platform designed to improve administrative efficiency in schools, colleges, and universities.
 
 It enables:
@@ -58,12 +66,14 @@ Test and validate the entire workflow.
 Ensure smooth execution and record management.
 
 🧾 Expected Outcome:
+
 By the end of this project, you will have:
 A functional ServiceNow-based Educational Management Application.
 Hands-on experience with ServiceNow Administration & Scripting.
 Knowledge of workflow automation in cloud-based platforms.
 
 📊 Tools & Technologies
+
 Platform: ServiceNow
 Category: ServiceNow System Administrator
 Skills: Workflow, Form Design, Scripting, Update Set, UI Customization
