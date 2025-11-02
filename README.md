@@ -57,7 +57,7 @@ Write scripts for field validation, automation, or dynamic updates on the client
 Test and validate the entire workflow.
 Ensure smooth execution and record management.
 
-🧾 Expected Outcome
+🧾 Expected Outcome:
 By the end of this project, you will have:
 A functional ServiceNow-based Educational Management Application.
 Hands-on experience with ServiceNow Administration & Scripting.
